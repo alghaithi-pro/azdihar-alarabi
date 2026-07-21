@@ -217,7 +217,8 @@ p { margin: 0 0 1em; color: var(--muted); }
 .hero-visual {
   position: relative;
   aspect-ratio: 1 / 1;
-  width: 280px;
+  width: 460px;
+  max-width: 90%;
   margin: 0 auto 32px;
   display: flex;
   align-items: center;
