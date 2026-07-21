@@ -238,7 +238,7 @@ p { margin: 0 0 1em; color: var(--muted); }
 }
 .hero-visual-logo {
   position: relative;
-  width: 64%;
+  width: 82%;
   height: auto;
   filter: drop-shadow(0 0 26px rgba(201,162,39,.5));
 }
